@@ -1,14 +1,28 @@
-layout_spectrum: 1
+name: black monday
+favicon: null
+layout_spectrum: 0.50329
+typography_spectrum: 0.22389
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.7255639
-  brandStrength: 0.1927048
-  lightness: 0.01879696
-  rhythmicContrast: 0.8931257
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-typography_spectrum: 0.4570354
-name: black monday
+  brandStrength: 1
+  lightness: 0.01879696
+  saturation: 0.7255639
+  rhythmicContrast: 1
+purpose: []
