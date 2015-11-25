@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[black monday]]></title>
+        <description><![CDATA[black monday]]></description>
+        <link>https://thegrid.ai/black-monday/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 25 Nov 2015 08:13:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/black-monday/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[*** CLASSIFIED ***]]></title>
+            <description><![CDATA[<h1>*** CLASSIFIED ***</h1>]]></description>
+            <link>https://thegrid.ai/black-monday/classified/index.html</link>
+            <guid isPermaLink="false">58dd4eaf-a9db-453c-a0c8-b653fdd737a0</guid>
+            <pubDate>Wed, 25 Nov 2015 08:06:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Porky's BBQ Bankside, London, United Kingdom]]></title>
+            <description><![CDATA[<article><h1>Porky's BBQ Bankside, London, United Kingdom</h1><p>Yummy!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/69e1ed92-0f05-4309-97a9-5234b19cf19d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/black-monday/porkys-bbq-bankside-london-united-kingdom/index.html</link>
+            <guid isPermaLink="false">3aa30493-144b-44af-995e-70e08cb459c7</guid>
+            <pubDate>Wed, 25 Nov 2015 08:12:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
