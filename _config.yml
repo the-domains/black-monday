@@ -1,5 +1,4 @@
-favicon: null
-name: black monday
+layout_spectrum: 0.9210526
 opengraph:
   image: null
   type: null
@@ -33,8 +32,9 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.50329
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: black monday
