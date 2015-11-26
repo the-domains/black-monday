@@ -1,28 +1,40 @@
-name: black monday
 favicon: null
-layout_spectrum: 0.50329
-typography_spectrum: 0.27469
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: black monday
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.7255639
+  brandStrength: 0.3721804
+  lightness: 0.01879696
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 1
-  lightness: 0.01879696
-  saturation: 0.7255639
   rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.27469
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.50329
+analytics:
+  twitter: null
+  google: null
+  facebook: null
