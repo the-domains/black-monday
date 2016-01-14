@@ -1,3 +1,4 @@
+favicon: null
 name: black monday
 opengraph:
   image: null
@@ -9,30 +10,29 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.7255639
+  saturation: 0.6546724
   brandStrength: 0.3721804
-  lightness: 0.01879696
+  lightness: 0
   brandColors:
     - '#020204'
     - '#646665'
     - '#9A9B9A'
-  rhythmicContrast: 1
-typography_spectrum: 0.27469
-cta:
-  bucket: null
-  version: null
-  domain: null
+  rhythmicContrast: 0.2604726
+typography_spectrum: 0
+layout_spectrum: 0.3614393
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-layout_spectrum: 0.5182599
+cta:
+  bucket: null
+  version: null
+  domain: null
