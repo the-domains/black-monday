@@ -1,23 +1,19 @@
 ---
-author: []
-dateModified: '2016-08-31T10:03:06.399Z'
-via: {}
 title: black monday
-publisher:
-  name: black monday limited
-  url: 'http://lundinoir.com'
-description: Creator of experiences and other cool stuff....
-datePublished: '2016-08-31T10:04:17.754Z'
-starred: false
+datePublished: '2016-08-31T10:10:18.203Z'
+dateModified: '2016-08-31T10:09:56.265Z'
+author: []
+description: Creator of experiences and other cool stuff
+publisher: {}
+via: {}
+starred: true
 sourcePath: _posts/2016-08-31-black-monday.md
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: black-monday/index.html
-_context: 'http://schema.org'
-_type: Article
+_type: MediaObject
 
 ---
 # black monday
 
-> Creator of experiences and other cool stuff....
+> Creator of experiences and other cool stuff
