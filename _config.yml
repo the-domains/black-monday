@@ -20,19 +20,19 @@ color:
     - '#646665'
     - '#9A9B9A'
   lightness: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: black monday
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.08324379
-layout_spectrum: 1
+layout_spectrum: 0.9790547
