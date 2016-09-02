@@ -5,12 +5,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.6546724
   brandStrength: 0.3721804
@@ -20,19 +20,19 @@ color:
     - '#646665'
     - '#9A9B9A'
   lightness: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
 favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: black monday
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.08324379
-layout_spectrum: 0.01664876
+layout_spectrum: 1
